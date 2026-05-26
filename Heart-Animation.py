@@ -124,22 +124,3 @@ if __name__ == '__main__':
     heart = Heart()
     draw(root, canvas, heart)
     root.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
